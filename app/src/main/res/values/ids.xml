@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="liner_all_story" type="id" />
+    <item name="liner_add_story" type="id" />
+    <item name="pic" type="id" />
+    <item name="storyRec" type="id" />
+</resources>
